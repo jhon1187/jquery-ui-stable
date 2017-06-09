@@ -1,5 +1,5 @@
 {
-    "name": "jqueryui",
+    "name": "jquery-ui-stable",
     "version": "1.12.1",
     "description": "A curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.",
     "main": "jquery-ui.js",

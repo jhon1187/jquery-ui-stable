@@ -8,10 +8,10 @@ $ npm install jquery-ui-stable --save
 
 ## Usage
 
-```css
+```file
 node_modules/jquery-ui-stable/jquery-ui.min.css
 ```
 
-```js
+```file
 node_modules/jquery-ui-stable/jquery-ui.min.js
 ```
